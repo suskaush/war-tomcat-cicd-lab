@@ -1,5 +1,6 @@
-<header>
+header>
   <h1>Customer Portal</h1>
+  <p><strong>Release 1.1:</strong> Updated shared navigation</p>
   <nav>
     <a href="index.jsp">Home</a> |
     <a href="about.jsp">About</a>
